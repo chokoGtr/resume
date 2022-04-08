@@ -2,7 +2,7 @@
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://chokogtr.github.io/resume
 
 ## Features
 
