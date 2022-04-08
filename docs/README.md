@@ -142,18 +142,18 @@
     - AWS S3
 
 
-### Blockcahin R&D
+### Blockchain R&D
 - **プロジェクト概要：**
-    - 金融事業にとらわれない新規事業開拓をしていくため、Blockcahin の研究、調査を行うプロジェクト
+    - 金融事業にとらわれない新規事業開拓をしていくため、Blockchain の研究、調査を行うプロジェクト
 - **プロジェクト規模：**
     - 全 10 名程度
 - **担当フェーズ：**
-    - Blockcahin 関連技術調査
+    - Blockchain 関連技術調査
 - **業務内容：**
-    - Blockcahin 関連技術調査
-    - 日経 BP Fintech&Blockcahin への出展
+    - Blockchain 関連技術調査
+    - 日経 BP Fintech&Blockchain への出展
     - 分散型取引所プロトタイプ開発
-    - Blockcahin 関連の調査記事をブログとして発信
+    - Blockchain 関連の調査記事をブログとして発信
 - **言語等：**
     - JavaScript
     - Solidity（Ethereum）
