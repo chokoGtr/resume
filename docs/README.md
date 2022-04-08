@@ -6,9 +6,9 @@
 |---|---|
 |氏名|鶴見翼（Tsurumi Tsubasa）|
 |生年月日|1995/01/06|
-|Twitter|https://twitter.com/chokoGtr|
-|Facebook|https://www.facebook.com/tsubasa.tsurumi.9|
-|Github|https://github.com/chokoGtr|
+|Twitter|[https://twitter.com/chokoGtr](https://twitter.com/chokoGtr)|
+|Facebook|[https://www.facebook.com/tsubasa.tsurumi.9](https://www.facebook.com/tsubasa.tsurumi.9)|
+|Github|[https://github.com/chokoGtr](https://github.com/chokoGtr)|
 
 ---
 
@@ -142,18 +142,18 @@
     - AWS S3
 
 
-### ブロックチェーン R&D
+### Blockcahin R&D
 - **プロジェクト概要：**
-    - 金融事業にとらわれずに新規事業開拓をしていくため、ブロックチェーンを軸に研究、調査を行うプロジェクト
+    - 金融事業にとらわれない新規事業開拓をしていくため、Blockcahin の研究、調査を行うプロジェクト
 - **プロジェクト規模：**
     - 全 10 名程度
 - **担当フェーズ：**
-    - ブロックチェーン関連技術調査
+    - Blockcahin 関連技術調査
 - **業務内容：**
-    - ブロックチェーン関連技術調査
-    - 日経 BP Fintech&ブロックチェーンへの出展
+    - Blockcahin 関連技術調査
+    - 日経 BP Fintech&Blockcahin への出展
     - 分散型取引所プロトタイプ開発
-    - ブロックチェーン関連の調査記事をブログとして発信
+    - Blockcahin 関連の調査記事をブログとして発信
 - **言語等：**
     - JavaScript
     - Solidity（Ethereum）
