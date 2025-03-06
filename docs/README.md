@@ -96,7 +96,7 @@
 | **プロジェクト概要** | Fintechバックエンドシステム開発 |
 | **プロジェクト規模** | 全体 20 名程度 |
 | **担当フェーズ** | 基本設計、詳細設計、開発、テスト |
-| **業務内容** | ・分析基盤をAWS Redshiftにmigrationするための技術検証<br>・金融商品管理システム社内管理画面開発 |
+| **業務内容** | ・分析基盤をAWS Redshiftにmigrationするための技術検証<br>・金融商品管理システム社内管理画面 |
 | **使用技術** | Go, Echo, html/template, Redshift, Lambda, ECS, S3, dynamoDB, Aurora, Step Functions,  |
 
 ---
