@@ -13,7 +13,7 @@
 
 ---
 
-## 技術スタック
+## Technology Stack
 
 ### Language
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 趣味・興味
+## Hobby
 
 - 🏀 **NBA** — Denver Nuggets ファン
 - 🏎️ **F1** — 角田裕毅、セバスチャン・ベッテルファン
